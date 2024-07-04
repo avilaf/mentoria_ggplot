@@ -9,3 +9,8 @@ Esperamos que seja útil :)
 
 
 Qualquer dúvida ou sugestão é só me escrver: fernandar.avila@gmail.com
+
+___
+Dra. Fernanda Rodrigues de Avila
+https://avilaf.github.io/
+🫱🏻‍🫲🏾♀️🔬
