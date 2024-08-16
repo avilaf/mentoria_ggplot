@@ -1,9 +1,5 @@
 # mentoria_ggplot
 
-Esse repositório abriga 
-
-geral.R
-
 
 O objetivo desse repositório é reunir os materiais da mentoria de ggplot realizada no pod Porto Alegre das 500 Mulheres Cientistas.
 
